@@ -8,3 +8,8 @@ rebase
 aaaa
 
 abc def
+
+commit 1
+
+commit 2
+
